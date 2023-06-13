@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=",[vyc#,Gmt2!b:tUiEQ[" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="FhAwipLyT6r@!d@5J)$6"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . # . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="game_add_life" id="f:9lA7h-$CY`bi0[Dia|"><value name="lives"><shadow type="math_number" id="iNr!48Kv|a|5n=y`Y6ff"><field name="NUM">10</field></shadow></value></block></next></block></statement></block><block type="game_remove_life" id="}UA[JpT)_f/9eH)|KOlZ" disabled="true" x="8" y="429"><value name="life"><shadow type="math_number" id="}8-Y1h]|p(EVx|Hp~,Yd" disabled="true"><field name="NUM">0</field></shadow></value></block></xml>
